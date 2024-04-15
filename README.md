@@ -20,8 +20,9 @@ End the program
 ## PROGRAM:
 Developed By: Ashwina.K.N
 Register Number: 212223230025
-def swap(Surya,Vijay):
-    tmp=Surya
+
+def swap(Surya,Vijay): 
+     tmp=Surya 
     Surya=Vijay
     Vijay=tmp
     print("Swapped values are:",Surya,Vijay)
