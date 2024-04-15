@@ -18,6 +18,7 @@ Print both the values it would be interchanged
 ### Step 6: 
 End the program
 ## PROGRAM:
+'''
 Developed By: Ashwina.K.N
 Register Number: 212223230025
 def swap(Surya,Vijay): 
@@ -34,7 +35,7 @@ Surya=int(input(""))
 Vijay=int(input(""))
 
 swap(Surya,Vijay)
-
+'''
 ## OUTPUT:
 
 ![Screenshot 2024-04-15 133819](https://github.com/Ashwinakn/Swapping-two-values/assets/152128332/15941a22-522a-4074-8981-aed62fe5fa08)
