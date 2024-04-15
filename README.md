@@ -20,14 +20,19 @@ End the program
 ## PROGRAM:
 Developed By: Ashwina.K.N
 Register Number: 212223230025
-
 def swap(Surya,Vijay): 
-     tmp=Surya 
+    tmp=Surya 
+    
     Surya=Vijay
+    
     Vijay=tmp
+    
     print("Swapped values are:",Surya,Vijay)
+    
 Surya=int(input(""))
+
 Vijay=int(input(""))
+
 swap(Surya,Vijay)
 
 ## OUTPUT:
